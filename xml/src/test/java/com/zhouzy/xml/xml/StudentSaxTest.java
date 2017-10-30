@@ -5,9 +5,9 @@ import java.util.Set;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
-import com.zhouzy.xml.Lesson;
-import com.zhouzy.xml.Student;
-import com.zhouzy.xml.StudentSax;
+import com.zhouzy.xml.sax.Lesson;
+import com.zhouzy.xml.sax.Student;
+import com.zhouzy.xml.sax.StudentSax;
 
 public class StudentSaxTest {
     public static void main(String[] args) throws Exception {

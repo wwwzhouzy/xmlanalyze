@@ -6,9 +6,9 @@ import java.util.List;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
-import com.zhouzy.xml.Forecast;
-import com.zhouzy.xml.Weather;
-import com.zhouzy.xml.WeatherSax;
+import com.zhouzy.xml.sax.Forecast;
+import com.zhouzy.xml.sax.Weather;
+import com.zhouzy.xml.sax.WeatherSax;
 
 public class WeatherSaxTest {
 
